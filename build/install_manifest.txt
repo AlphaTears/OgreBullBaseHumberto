@@ -1,0 +1,13 @@
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/packs/SdkTrays.zip
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/models/ninja.skeleton
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/models/ninja.mesh
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/models/ogrehead.mesh
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/models/cube.mesh
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/scripts/Ogre.material
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/scripts/Examples.material
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/textures/rockwall.tga
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/textures/spheremap.png
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/textures/GreenSkin.jpg
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/textures/nskingr.jpg
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/.//media/materials/textures/tusk.jpg
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/dist/bin/resources.cfg
