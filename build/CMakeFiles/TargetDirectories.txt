@@ -1,0 +1,7 @@
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/install/strip.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/install/local.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/install.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/list_install_components.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/rebuild_cache.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/edit_cache.dir
+/home/gljenkins/Documents/Development/GameEngineDev/StudentCode/Humberto/OgreBullBaseHumberto/build/CMakeFiles/SimpleGame.dir
